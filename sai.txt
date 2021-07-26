@@ -1,3 +1,4 @@
+added line in master branch
 simply created this file for learning purpose
 trail purpose
 git status -s checking
