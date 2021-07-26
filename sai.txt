@@ -5,4 +5,5 @@ git status -s checking
 added new line in branch1
 changing this file in branch1
 
-ADDED LINE TO CROSSCHECK GIT MERGE
+ADDED LINE TO CROSS CHECK GIT MERGE
+added new line in master branch
