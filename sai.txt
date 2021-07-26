@@ -6,3 +6,4 @@ added new line in branch1
 changing this file in branch1
 
 ADDED LINE TO CROSSCHECK GIT MERGE
+added one more line 
