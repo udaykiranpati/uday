@@ -2,4 +2,6 @@ added line in master branch
 simply created this file for learning purpose
 trail purpose
 git status -s checking
-added new line in master branch
+added new line in branch1
+changing this file in branch1
+
