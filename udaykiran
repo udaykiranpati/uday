@@ -7,4 +7,8 @@ added new line in udaykiran in branch2
 
 added new line in udaykiran in branch1
 
+<<<<<<< HEAD
 modified file in master branch
+=======
+modified udaykiran file in branch1
+>>>>>>> 3f3e919 (commit 2)
