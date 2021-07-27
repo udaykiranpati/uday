@@ -5,14 +5,4 @@ git status -s checking
 added new line in branch1
 changing this file in branch1
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-ADDED LINE TO CROSS CHECK GIT MERGE
-added new line in master branch
-=======
-ADDED LINE TO CROSSCHECK GIT MERGE
-added one more line 
->>>>>>> branch1
-=======
-ADDED LINE TO CROSSCHECK GIT MERGE
->>>>>>> parent of 89f016c (added new line in master)
+changed this file to check rebase
