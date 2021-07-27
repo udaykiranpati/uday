@@ -5,4 +5,8 @@ git status -s checking
 added new line in branch1
 changing this file in branch1
 
+<<<<<<< HEAD
 changed this file to check rebase
+=======
+added this line in branch2 to check rebase 
+>>>>>>> e11e013 (changed sai file in branch2 for rebase)
